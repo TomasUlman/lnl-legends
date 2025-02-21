@@ -3,6 +3,8 @@
 **Popis projektu:** <br>
 L&L Legends je interaktivní hra s mapou, kde hráči zkoušejí lokalizovat různá místa na světě. Hra nabízí kvízy s různými úrovněmi obtížnosti a specifickými pravidly pro každý kvíz. Hráč uvidí obrázek daného místa a jeho úkolem je umístit marker na mapu na místo, kde si myslí, že se daná lokace nachází. Hra vyhodnocuje přesnost tipu na základě vzdálenosti od správné pozice a rychlosti, s jakou hráč odpoví.
 
+**Demo projektu:** https://tomasulman-lnl-legends.netlify.app/
+
 **Herní mechanismus:** 
 * Hráč si v menu vybere kvíz a klikne na tlačítko „Play“.
 * Po načtení se zobrazí obrázek určitého místa a hráč má za úkol označit jeho polohu na mapě.
