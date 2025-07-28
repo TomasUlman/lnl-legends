@@ -67,11 +67,6 @@ cd LnL_Legends
 
 ---
 
-## 📸 Screenshot
-![Architektura](./Architecture.jpg)
-
----
-
 ## 📝 Licence & Poděkování
 
 - Obrázky: [Pixabay](https://pixabay.com/)
