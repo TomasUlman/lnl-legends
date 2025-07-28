@@ -1,8 +1,6 @@
 
 # 🌍 LnL Legends
 
-> ⚠️ This is a personal Vanilla JS project. The README is written in English for presentation purposes.
-
 LnL Legends is an interactive map quiz game where players try to locate real-world places based on photos. The game tests the player's geographic knowledge by calculating the accuracy of each guess using both **distance** and **response time**.
 
 🔗 **Live demo:** [tomasulman-lnl-legends.netlify.app](https://tomasulman-lnl-legends.netlify.app/)
