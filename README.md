@@ -1,6 +1,3 @@
-⚠️ Toto je osobní studijní projekt. Není určen pro produkční použití.  
-README je psané v češtině, protože projekt je součástí mého studijního archivu.
-
 # 🗺️ LnL Legends
 
 **LnL Legends** je interaktivní mapová hra postavená v čistém JavaScriptu. Hráč dostane obrázek určitého místa a musí na mapě označit, kde se toto místo nachází. Na základě přesnosti a rychlosti odpovědi získává skóre.
