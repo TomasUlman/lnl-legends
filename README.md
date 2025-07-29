@@ -76,5 +76,5 @@ cd LnL_Legends
 
 ---
 
-© 2025 Tomáš Ulman  
+© 2024 Tomáš Ulman  
 Osobní projekt pro trénink práce s Leafletem, mapovou geolokací a OOP v JavaScriptu.
